@@ -8,6 +8,7 @@ export default function Home() {
 			<Head>
 				<title>Ponggal Kitchen</title>
 				<meta data-n-head='1' charset='utf-8' />
+				<meta name="google-site-verification" content="JiVncws0s2sB__pjVyXA5LMI3JuYz8DWzMQuSwVPjh8" />
 				<meta
 					data-n-head='1'
 					data-hid='description'
